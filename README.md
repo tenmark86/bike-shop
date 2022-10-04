@@ -1,4 +1,4 @@
-## Mak-Bike-shop
+# Mak-Bike-shop
 
 Landing page of a restaurants website
 Created By Mak Kilela
@@ -6,7 +6,7 @@ Created By Mak Kilela
 ## Description
 phase 2 Independent Project | Mark's bike-shop. Its a site where bikers buy Accesories for their bikes like tyres and much more.
 
-##Setup/Installation Requirements
+## Setup/Installation Requirements
 * Git
 * Web-browser or your choice
 * Github

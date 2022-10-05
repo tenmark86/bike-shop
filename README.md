@@ -22,12 +22,13 @@ The following languages have been used on this project:
 
 
 ## Known Bugs
-So far so good there are no bugs related to this project 😎
+* So far so good there are no bugs related to this project 😎
 
 ## Support and contact details 🙂
-To make a contribution to the code used or any suggestions you can pull a request on the repo
+* To make a contribution to the code used or any suggestions you can open a pull request on the repo
 
-## Email: mak.student@moringaschool.com
+## Email:
+* mak.student@moringaschool.com
 
 ## License
 MIT licence Copyright (c) 2022 

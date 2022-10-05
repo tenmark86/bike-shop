@@ -1,10 +1,10 @@
 # Mak-Bike-shop
 
-Landing page of a bike-shop parts and Accesories
+* Landing page of a bike-shop parts and Accesories
 Created By Mak Kilela
 
 ## Description
-phase 2 Independent Project | Mark's bike-shop. Its a site where bikers buy Accesories for their bikes like tyres and much more.
+* phase 2 Independent Project | Mark's bike-shop. Its a site where bikers buy Accesories for their bikes like tyres and much more.
 
 ## Setup/Installation Requirements
 * Git
@@ -31,6 +31,6 @@ The following languages have been used on this project:
 * mak.student@moringaschool.com
 
 ## License
-MIT licence Copyright (c) 2022 
+* MIT licence Copyright (c) 2022 
 
 

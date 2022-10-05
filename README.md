@@ -2,7 +2,7 @@
 
 * Landing page of a bike-shop parts and Accesories
 Created By Mak Kilela
-Data obtained from TREK site: [I'm an inline-style link](https://www.trekbikes.com) 
+Data obtained from TREK site: [TREK](https://www.trekbikes.com) 
 backend hosted on heroku site. 
 
 ## Description

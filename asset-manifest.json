@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bike-shop/static/css/main.37d82dd5.css",
+    "main.js": "/bike-shop/static/js/main.0cba6da7.js",
+    "static/media/header-bg.png": "/bike-shop/static/media/header-bg.f661f37723d83daffaaa.png",
+    "static/media/image-7.png": "/bike-shop/static/media/image-7.84d2c92698187c6a2b1c.png",
+    "static/media/image-6.png": "/bike-shop/static/media/image-6.f285f0d0431f0a42b00b.png",
+    "static/media/image-3.png": "/bike-shop/static/media/image-3.650384f2b189b053527d.png",
+    "static/media/image-5.png": "/bike-shop/static/media/image-5.f58d2ba3c453c049e9fe.png",
+    "static/media/image-8.png": "/bike-shop/static/media/image-8.5292610128047c36194f.png",
+    "static/media/image-2.png": "/bike-shop/static/media/image-2.91499c0b6d786b2d6279.png",
+    "static/media/image-4.png": "/bike-shop/static/media/image-4.6c80d6165b47312fa4e7.png",
+    "static/media/image-1.png": "/bike-shop/static/media/image-1.2b287ba958d349f64c93.png",
+    "static/media/post-2.png": "/bike-shop/static/media/post-2.7f5f20722e869ac0edf8.png",
+    "static/media/post-3.png": "/bike-shop/static/media/post-3.77447b4d36547908d443.png",
+    "static/media/checkout.png": "/bike-shop/static/media/checkout.78558f95ee107d4ac161.png",
+    "static/media/post-4.png": "/bike-shop/static/media/post-4.a7830387a5ea064f16d4.png",
+    "static/media/post-1.png": "/bike-shop/static/media/post-1.d469cc7ae80f815e8914.png",
+    "static/media/logo.svg": "/bike-shop/static/media/logo.2fc2eaae52501690ef3201d589df5f97.svg",
+    "static/media/twitter.svg": "/bike-shop/static/media/twitter.30e339c6f031a927ccb7693563a17799.svg",
+    "index.html": "/bike-shop/index.html",
+    "static/media/facebook.svg": "/bike-shop/static/media/facebook.48aa64b1879fcbd93ec048ee2efc8c18.svg",
+    "static/media/telegram.svg": "/bike-shop/static/media/telegram.3a73f548fa03e353d679f5eb546291f1.svg",
+    "main.37d82dd5.css.map": "/bike-shop/static/css/main.37d82dd5.css.map",
+    "main.0cba6da7.js.map": "/bike-shop/static/js/main.0cba6da7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d82dd5.css",
+    "static/js/main.0cba6da7.js"
+  ]
+}

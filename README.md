@@ -2,6 +2,8 @@
 
 * Landing page of a bike-shop parts and Accesories
 Created By Mak Kilela
+Data obtained from TREK site: trekbikes.com 
+backend hosted on heroku site. 
 
 ## Description
 * phase 2 Independent Project | Mark's bike-shop. Its a site where bikers buy Accesories for their bikes like tyres and much more.

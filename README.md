@@ -1,6 +1,6 @@
 # Mak-Bike-shop
 
-Landing page of a restaurants website
+Landing page of a bike-shop parts and Accesories
 Created By Mak Kilela
 
 ## Description

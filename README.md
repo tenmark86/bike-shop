@@ -1,6 +1,6 @@
 # Mak-Bike-shop
 
-* Landing page of a bike-shop parts and Accesories
+* Landing page of a bike-shop purchasing site
 Created By Mak Kilela
 
 * Data obtained from TREK site: [TREK](https://www.trekbikes.com) 
@@ -24,8 +24,12 @@ The following languages have been used on this project:
 * CSS
 * React js 
 
-## Setup/Installation Requirements
+## Some Screenshots
+![Screenshot 2022-10-05 191727](https://user-images.githubusercontent.com/83606182/194111747-2c9de3e9-95be-4416-a2ec-5c49773f1f09.png)
 
+![Screenshot 2022-10-05 191830](https://user-images.githubusercontent.com/83606182/194111993-cc5a817b-6750-4c58-a2d2-4083fcd325bb.png)
+
+![Screenshot 2022-10-05 191859](https://user-images.githubusercontent.com/83606182/194112079-8d14e6e6-3517-41a0-b42c-991099c9969f.png)
 
 ## Known Bugs
 * So far so good there are no bugs related to this project 😎

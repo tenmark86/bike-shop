@@ -8,19 +8,21 @@ Created By Mak Kilela
 * backend hosted on heroku site 
 
 ## Description
-* phase 2 Independent Project | Mark's bike-shop. Its a site where bikers buy Accesories for their bikes like tyres and much more.
+* phase 2 Independent Project | Mark's bike-shop. It's a site where customers buy bikes and choose it's features
 
 ## Setup/Installation Requirements
-* Git
-* Web-browser or your choice
-* Github
+
+* Git clone repo on terminal
+* run ```nmp install```
+* run ```npm start```
+your site will load on  ```http://localhost:3000/bike-shop```
 
 ## Technologies Used
 The following languages have been used on this project:
 
 * HTML
 * CSS
-* React
+* React js 
 
 ## Setup/Installation Requirements
 

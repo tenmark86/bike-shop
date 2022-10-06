@@ -24,6 +24,8 @@ The following languages have been used on this project:
 * CSS
 * React js 
 
+Live link: https://tenmark86.github.io/bike-shop/
+
 ## Some Screenshots
 ![Screenshot 2022-10-05 191727](https://user-images.githubusercontent.com/83606182/194111747-2c9de3e9-95be-4416-a2ec-5c49773f1f09.png)
 

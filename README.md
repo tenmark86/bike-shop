@@ -43,7 +43,7 @@ Live link: https://tenmark86.github.io/bike-shop/
 * To make a contribution to the code used or any suggestions you can open a pull request on the repo
 
 ## Email:
-* mak.student@moringaschool.com
+* mak.kilela@student.moringaschool.com
 
 ## License
 * MIT licence Copyright (c) 2022 
